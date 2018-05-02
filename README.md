@@ -1,16 +1,11 @@
-# Welcome to SpaceInvader
+# Space Invaders
 
+    Our game is a simple game based onto the original space invaders created by Taito Corporation.
 
-You can use the [editor on GitHub](https://github.com/NatanaelKun/WebsiteTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Installing
 
 ```markdown
-Syntax highlighted code block
+In order to install our game please do the steps below:
 
 # Header 1
 Teste
@@ -30,14 +25,8 @@ Teste
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NatanaelKun/WebsiteTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble installing our game? Please contact us on e-mail [contact support](ian.cezar@acad.pucrs.br) and we’ll help you sort it out.
 
-[Site link](https://ianbcez.github.io/SpaceInvader/)
+<!--[Site link](https://ianbcez.github.io/SpaceInvader/)-->
