@@ -7,18 +7,13 @@
 ```markdown
 In order to install our game please do the steps below:
 
-# Header 1
-Teste
-## Header 2
-Teste
-### Header 3
-Teste
+## Compiling
+- `javac *.java`
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
