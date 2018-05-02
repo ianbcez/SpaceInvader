@@ -1,6 +1,6 @@
 # Space Invaders
 
-    Our game is a simple game based onto the original space invaders created by Taito Corporation.
+  Our game is a simple game based onto the original space invaders created by Taito Corporation.
 
 ### Installing
 
@@ -8,16 +8,10 @@
 In order to install our game please do the steps below:
 
 ## Compiling
-- `javac *.java`
+- ` javac *.java `
 
-
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Running
+- ` java Main `
 ```
 
 ### Support or Contact
